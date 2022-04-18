@@ -14,15 +14,15 @@ Tenho uma boa capacidade de liderança e trabalho bem em equipe. Tenho respeito 
 
 Portfólio 3 ano
 - [Atividade Toast](deveres.png)
-#### Atividade feita na aula do Jackson de um emulador exibindo uma mensagem no formato TOAST
+#### Atividade feita na aula do Jackson de um emulador exibindo uma mensagem no formato TOAST, foi escolhida porque foi um conteúdo difícil de aprender, mas quando aprendi, gostei muito de fazer.
 
 #### Atividade Funções
  [Print Funcao1](PrintCF1.png)
  [Print Funcao2](print5F.png)
-#### Atividade de funções onde utilizamos 5 funções diferentes para visualizar as informações da tabela e fizemos uma função chamada "minimo" que retornava 2 valores.
+#### Atividade de funções onde utilizamos 5 funções diferentes para visualizar as informações da tabela e fizemos uma função chamada "minimo" que retornava 2 valores. Essa atividade foi escolhida porque as funções facilitaram na hora de visualizar informações da tabela, algo que eu tinha dificuldade.
 
 - [Atividade Diagrama](copadelmundi.drawio.png)
-#### Atividade em que fizemos um diagrama sobre a copa do mundo com a professora na aula.
+#### Atividade em que fizemos um diagrama sobre a copa do mundo com a professora na aula, foi escolhida porque fala de um tema que eu gosto muito, que é o futebol.
 
 Autoria
 - [Autoria Jogo Gabigol](jogogabi.png)
