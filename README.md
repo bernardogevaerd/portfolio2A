@@ -14,4 +14,4 @@ Tenho uma boa capacidade de liderança e trabalho bem em equipe. Tenho respeito 
 
 Portfólio 3 ano
 - [Atividade Toast](deveres.png)
-### Atividade feita na aula do Jackson de um emulador exibindo uma mensagem no formato TOAST
+## Atividade feita na aula do Jackson de um emulador exibindo uma mensagem no formato TOAST
