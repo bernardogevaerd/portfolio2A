@@ -23,3 +23,7 @@ Portfólio 3 ano
 
 - [Atividade Diagrama](copadelmundi.drawio.png)
 #### Atividade em que fizemos um diagrama sobre a copa do mundo com a professora na aula.
+
+Autoria
+- [Autoria Jogo Gabigol](jogo gabi.png)
+#### Autoria feita em sala, onde fiz uma interface inicial para um jogo que tem como tema o jogador de futebol Gabriel Barbosa.
