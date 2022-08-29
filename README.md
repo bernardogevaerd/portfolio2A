@@ -27,3 +27,11 @@ Portfólio 3 ano
 Autoria
 - [Autoria Jogo Gabigol](jogogabi.png)
 #### Autoria feita em sala, onde fiz uma interface inicial para um jogo que tem como tema o jogador de futebol Gabriel Barbosa.
+
+SA Cigarro
+- [SACigarro](Cigarro.zip)
+### SA feita em sala com objetivo de alertar sobre o uso de cigarros.
+
+Projeto Loja
+- [Projeto Loja](Loja.zip)
+### Projeto feito junto com Arthur Greghi e Gabriel Lemos, onde fizemos um projeto de negócio.
